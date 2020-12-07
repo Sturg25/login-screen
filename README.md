@@ -1,2 +1,2 @@
 # login-screen
-![Alt text](/relative/Screenshot_20201208-002002.png?raw=true "Optional Title")
+![Alt text](https://github.com/Sturg25/login-screen/blob/master/Screenshot_20201208-002002.png)
