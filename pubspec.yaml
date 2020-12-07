@@ -1,0 +1,44 @@
+name: my_personal_app
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_auth: ^0.11.1+3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+   - assets/logos/google.jpg
+   - assets/logos/facebook.jpg
+   - assets/logos/profile.png
+   - assets/artists/FooFighters.jpg
+   - assets/artists/Dragonforce.jpg
+   - assets/artists/Queen.jpg
+   - assets/artists/STP.jpg
+   - assets/artists/MCR.jpg
+   - assets/artists/Drake.jpg
+   - assets/artists/EdSheeran.jpg
+   - assets/artists/Post.jpg
+   - assets/artists/Ariana.jpg
+   - assets/artists/Eminem.jpg
+
+
+  fonts:
+    - family: ProximaNova
+      fonts:
+        - asset: assets/fonts/ProximaNova.ttf
